@@ -1,3 +1,5 @@
 # vanilla-javascript
 
-Here's my some Vanila JavaScript projects 
+Web Projects With Vanilla JavaScript
+
+I build mini projects on Vanilla JavaScript 
